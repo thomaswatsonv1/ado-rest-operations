@@ -1,0 +1,60 @@
+{
+    "repos": [
+        {
+            "sourceOrganization": "ADO-ORG-NAME",
+            "sourceProject": "PROJECT-NAME",
+            "sourceRepo": "REPO-NAME",
+            "destinationOrganization": "CAN-BE-BLANK",
+            "destinationProject": "CAN-BE-BLANK",
+            "destinationRepo": "NEW-REPO-NAME"
+        },
+        {
+            "sourceOrganization": "ADO-ORG-NAME",
+            "sourceProject": "PROJECT-NAME",
+            "sourceRepo": "REPO-NAME",
+            "destinationOrganization": "CAN-BE-BLANK",
+            "destinationProject": "CAN-BE-BLANK",
+            "destinationRepo": "NEW-REPO-NAME"
+        },
+        {
+            "sourceOrganization": "ADO-ORG-NAME",
+            "sourceProject": "PROJECT-NAME",
+            "sourceRepo": "REPO-NAME",
+            "destinationOrganization": "CAN-BE-BLANK",
+            "destinationProject": "CAN-BE-BLANK",
+            "destinationRepo": "NEW-REPO-NAME"
+        },
+        {
+            "sourceOrganization": "ADO-ORG-NAME",
+            "sourceProject": "PROJECT-NAME",
+            "sourceRepo": "REPO-NAME",
+            "destinationOrganization": "CAN-BE-BLANK",
+            "destinationProject": "CAN-BE-BLANK",
+            "destinationRepo": "NEW-REPO-NAME"
+        },
+        {
+            "sourceOrganization": "ADO-ORG-NAME",
+            "sourceProject": "PROJECT-NAME",
+            "sourceRepo": "REPO-NAME",
+            "destinationOrganization": "CAN-BE-BLANK",
+            "destinationProject": "CAN-BE-BLANK",
+            "destinationRepo": "NEW-REPO-NAME"
+        },
+        {
+            "sourceOrganization": "ADO-ORG-NAME",
+            "sourceProject": "PROJECT-NAME",
+            "sourceRepo": "REPO-NAME",
+            "destinationOrganization": "CAN-BE-BLANK",
+            "destinationProject": "CAN-BE-BLANK",
+            "destinationRepo": "NEW-REPO-NAME"
+        },
+        {
+            "sourceOrganization": "ADO-ORG-NAME",
+            "sourceProject": "PROJECT-NAME",
+            "sourceRepo": "REPO-NAME",
+            "destinationOrganization": "CAN-BE-BLANK",
+            "destinationProject": "CAN-BE-BLANK",
+            "destinationRepo": "NEW-REPO-NAME"
+        }
+    ]
+}
