@@ -4,7 +4,7 @@ Powershell script for interacting with Azure Devops. Uses REST API version 7 in 
 
 ## Clone ADO repositories
 
-This process rewuires a valid P.A.T. token to be added and uses the following files:
+This process requires a valid P.A.T. token to be added and uses the following files:
 
 ### ado-clone-repos.ps1
 
