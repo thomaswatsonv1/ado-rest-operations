@@ -140,7 +140,7 @@ function Test-Endpoint {
     while (($false -eq $valid) -and ($times -lt 5)) {
 
         try {
-            $checkedUrl = Invoke-WebRequest -Uri $suppliedUrl -Method Get
+            $checkedUrl = Invoke-WebRequest -Uri $suppliedUrl -Method Get -UseBasicParsing
         }
         catch {
             Write-Host "Endpoint not available"
