@@ -28,7 +28,7 @@ This file has a few functions that are useful for checking endpoints, creating j
 
 This will allow the creation of ADO pipelines via a powershell script. It requires the use of a valid P.A.T. token that has permissions over pipelines. It uses the following files:
 
-## ado-create-pipeline.ps1
+### ado-create-pipeline.ps1
 
 Takes a json parameter file as a commandline option. If this is not available it uses a default file located in the same directory called "pipelines_to_create.json". If neither of these are not available or not valid json, the script will exit.
 
@@ -38,10 +38,10 @@ If there is a pre-existing pipeline with the same name as the inteded clone, the
 
 If any of the endpoints cannot be reached, the script will try again, up to a maximum of five times before skipping the create operation.
 
-## helper_functions.ps1
+### helper_functions.ps1
 
 As above Coming soon:
 
-## pipelines_to_create.ps1
+### pipelines_to_create.ps1
 
 Coming soon: json file that has the details the pipelines to create.
