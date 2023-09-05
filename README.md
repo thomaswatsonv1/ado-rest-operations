@@ -1,6 +1,6 @@
 # ado-rest-operations
 
-Powershell script for interacting with Azure Devops. Uses REST API version 7 in most (if not all cases).
+Powershell scripts for interacting with Azure Devops. Uses REST API version 7 in most (if not all cases).
 
 ## Clone ADO repositories
 
