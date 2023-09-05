@@ -18,7 +18,16 @@ If any of the endpoints cannot be reached, the script will try again, up to a ma
 
 ### repos_to_clone.json
 
-This file has a very simple structure and if the source and destination organizations and projects are the same it is permissible to only put in the source organization and repo and the ado-clone-repos.ps1 will use these values for source and destination.
+This file has a very simple json structure. It is a list of 'repos' that contain the following values:
+
+ - "sourceOrganization": "ADO-ORG-NAME",
+ - "sourceProject": "PROJECT-NAME",
+ - "sourceRepo": "REPO-NAME",
+ - "destinationOrganization": "CAN-BE-BLANK",
+ - "destinationProject": "CAN-BE-BLANK",
+ - "destinationRepo": "NEW-REPO-NAME"
+
+If the source and destination organizations and/or projects are the same it is permissible to only put in the source organization and repo and the ado-clone-repos.ps1 will use these values for source and destination.
 
 ### helper_functions.ps1
 
